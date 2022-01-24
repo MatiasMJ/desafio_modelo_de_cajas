@@ -16,7 +16,7 @@
 .flag{
     height: 250px; 
     width: 425px;
-    border: solid red 1px;
+    border: solid rgb(128, 128, 128) 1px;
     margin: 30px;
     display: flex;
 }
@@ -70,6 +70,34 @@
     margin-top: 44px;
 }
 
-.japon{
-    
+.emiratos-arabes{
+    display: inline-block;
+}
+.ea-content1{
+    background-color: red;
+    height: 248px;
+    width: 100px;
+}
+
+.ea-content2{
+    background-color: rgb(25, 100, 18);
+    height: 80px;
+    width: 323px;
+    margin-bottom: 88px;
+}
+
+.ea-content3{
+    background-color: black;
+    height: 80px;
+    width: 323px;
+}
+
+.japon-content{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    align-self: center;
+    display: flex;
+    margin: 0 161px;
 }
