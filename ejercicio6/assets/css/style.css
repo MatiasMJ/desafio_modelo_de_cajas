@@ -1,0 +1,10 @@
+.product{
+    position: absolute;
+   
+}
+
+.delivery{
+    position: relative;
+    top: 285px;
+    left: 270px;
+  }

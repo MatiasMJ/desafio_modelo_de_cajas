@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ribbon{
+        float: inline-end;
+        position: absolute;
+        right: 0px;
+}
